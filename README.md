@@ -1,0 +1,1 @@
+# This is class homework 2 done, given on 19thh of July, 2021 (AWD).
